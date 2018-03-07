@@ -9,6 +9,7 @@ public interface ZajacieUsi {
 	 * @param pocetZajacov
 	 * @return pocet usi
 	 */
+
 	public int zajacieUsi(int pocetZajacov);
 
 }
